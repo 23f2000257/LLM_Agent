@@ -1,7 +1,7 @@
 /**
  * GyaanSarita - Advanced AI Assistant
  * v2.8.0 (Updated: AI Pipe integration + bug fixes)
- * Author: Gaurav Tomar (Original) & Assistant (fixes)
+ * Author: Shreshta Sutar (Original) & Assistant (fixes)
  */
 class GyaanSarita {
     constructor() {
